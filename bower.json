@@ -1,0 +1,22 @@
+{
+  "name": "react-tinymce-bower",
+  "description": "React TinyMCE component",
+  "main": "lib/main.js",
+  "authors": [
+    "Matt Zabriskie"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tinymce",
+    "react-component"
+  ],
+  "homepage": "https://github.com/esbenp/react-tinymce-bower",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
